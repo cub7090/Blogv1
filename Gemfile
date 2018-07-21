@@ -33,6 +33,7 @@ gem 'ckeditor'
 gem 'paperclip'
 gem 'impressionist'
 gem 'social-share-button'
+gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
